@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.egg-info/
+# живые сессии и дампы страниц — не для публикации
+cookies.txt
+*_page*.txt
+snapshot.txt
+*.html
+*_report.txt
+ad_*.json
+offers_backup.json
+guides/
